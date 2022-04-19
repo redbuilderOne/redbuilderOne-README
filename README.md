@@ -14,9 +14,6 @@ RU. Я начал свою карьеру разработчика чуть ме
 *   🚀  I'm currently working on [Productivity Timer App](https://github.com/redbuilderOne/ProductivityTimer---Showcase-Apps)
 *   🧠  I'm learning patterns
 *   🤝  I'm open to collaborating on any projects
-*   ⚡  First Edu: Teacher of Foreign Languages (Eng, Ger, Rus). Video maker since 2013### Skills<p align="left">
-                                <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                                <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.provideocoalition.com%2Ffinal-cut-pro-updated-to-10-5-and-loses-the-x%2F&psig=AOvVaw2_EeMIjHysYOH25SUdpwQQ&ust=1650480323934000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDjzb3koPcCFQAAAAAdAAAAABAI****" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-                    </p>
+*   ⚡  First Edu: Teacher of Foreign Languages (Eng, Ger, Rus). Video maker since 2013
+
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p>
