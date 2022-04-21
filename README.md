@@ -4,7 +4,7 @@ Hi 👋 My name is Dima Skvortsov
 iOS Developer
 -------------
 
-ENG. I started my career as an iOS Developer less than 1 year ago. Thanks to bootcamp Netology I know how to write code in Swift and create simple apps like productivity timer etc 
+ENG. I started my career as an iOS Developer less than 1 year ago. Thanks to Netology university I know how to write code in Swift and create simple apps like productivity timer etc 
 -------------
 RU. Я начал свою карьеру разработчика чуть меньше года назад. Благодаря обучению в Нетологии я знаю как писать код на языке Swift и создавать простые приложения, такие как таймер продуктивности и тд
 -------------
