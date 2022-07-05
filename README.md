@@ -11,7 +11,7 @@ RU. Я начал свою карьеру разработчика чуть ме
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [dmskvortsov2492@gmail.com](mailto:dmskvortsov2492@gmail.com)
-*   🚀  I'm currently working on [Productivity Timer App](https://github.com/redbuilderOne/ProductivityTimer---Showcase-Apps)
+*   🚀  I'm currently working on [Protimer Timer App](https://github.com/redbuilderOne/ProductivityTimer---Showcase-Apps) & [Mildy Weather App](https://github.com/redbuilderOne/Mildy-MVVM-Portfolio-App)
 *   🧠  I'm learning patterns
 *   🤝  I'm open to collaborating on any projects
 *   ⚡  First Edu: Teacher of Foreign Languages (Eng, Ger, Rus). Videomaker since 2013
