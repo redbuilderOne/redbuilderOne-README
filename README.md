@@ -1,7 +1,7 @@
 Hi 👋 My name is Dima Skvortsov
 ===============================
 
-iOS Developer
+Junior iOS Developer
 -------------
 
 ENG. I started my career as an iOS Developer less than 1 year ago. Thanks to Netology university I know how to write code in Swift and create simple apps like productivity timer etc 
