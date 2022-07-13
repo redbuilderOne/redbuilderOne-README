@@ -18,6 +18,7 @@ RU. Я начал свою карьеру разработчика чуть ме
 
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p>
 
+![iOS Developer Netology Certificate jpeg](https://user-images.githubusercontent.com/95698427/178799999-c495d7ad-23f9-45ce-a628-a693f5b31d9f.jpg)
 
 My skills list
 -------------
@@ -106,3 +107,4 @@ My skills list
 - [ ]  • Фреймворк Swinject
 - [x]  • Система управления версиями Git
 - [ ]  • Мультиплатформенный фреймворк Firebase (авторизация, хранение данных, уведомления и многое-другое)
+- [x]  • SpriteKit
