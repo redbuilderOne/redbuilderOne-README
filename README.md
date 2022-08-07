@@ -105,5 +105,6 @@ My skills list
 - [ ]  • Фреймворк Swinject
 - [x]  • Система управления версиями Git
 - [ ]  • Мультиплатформенный фреймворк Firebase (авторизация, хранение данных, уведомления и многое-другое)
-- [x]  • SpriteKit
-- [x]  • UserDefaults
+- [x]  • Фреймворк SpriteKit
+- [x]  • Фреймворк MapKit
+- [x]  • Фреймворк CoreLocation
